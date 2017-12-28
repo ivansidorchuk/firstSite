@@ -1,0 +1,56 @@
+@media screen and (max-width:768px){
+	header {
+display: none;
+}
+
+.wrapp {
+	 width: 420px;
+	 height: 455px;
+    }
+
+ .wrapp p {
+ 	width: 190px;
+	height: 120px;	
+ }
+.section {
+	width: 420px;
+	height: 770px;
+}
+.sec1 {
+	width: 100%;
+}
+.wrapp2 {
+	width: 420px;
+	height: 700px;
+	flex-wrap: wrap;
+}
+.wrapp2 div,
+.wrapp3 div {
+	width: 100%;
+}
+.img1 img { 
+width: 420px;
+height: 250px;
+}
+
+.wrapp3 {
+	width: 420px;
+	height: 700px;
+	flex-wrap: wrap;
+}
+.img2 img { 
+width: 420px;
+height: 250px;
+}
+
+.footer{
+	width: 420px;
+}
+.f3 {
+	flex-wrap: wrap;
+}
+.f3 img {
+	width: 195px;
+	height: 85px;
+}
+}
